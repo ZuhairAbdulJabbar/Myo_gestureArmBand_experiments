@@ -1,0 +1,27 @@
+after setup the SDK
+
+
+
+use the 0.2.3 myo python library
+
+
+
+
+install it using the terminal:
+pip install myo-python==0.2.3
+
+
+
+
+download the 0.2.3 myo_python zip file from github
+unzip the file to a specific folder
+
+
+
+copy the newRunScript.py 
+and past it in the specific folder
+
+
+
+
+run the code ..
